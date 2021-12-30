@@ -1,6 +1,6 @@
 'use strict'
 
-for(let i = 1; i <= 99; i ++) {
+for(let i = 1; i <= 100; i ++) {
   if(i % 15 === 0) {
     console.log(`FizzBuzz ${i}`);
    } else if (i % 5 === 0) {
